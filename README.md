@@ -31,13 +31,13 @@ To run **Gamics** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/gamics.git
+sudo git clone https://github.com/nandasafiqalfiansyah/gamics.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/gamics.git
+git clone https://github.com/nandasafiqalfiansyah/gamics.git
 ```
 
 
