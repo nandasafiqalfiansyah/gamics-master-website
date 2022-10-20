@@ -31,7 +31,7 @@ To run **Gamics** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/nandasafiqalfiansyah/ggamics-master-website.git
+sudo git clone https://github.com/nandasafiqalfiansyah/gamics-master-website.git
 ```
 
 Windows:
